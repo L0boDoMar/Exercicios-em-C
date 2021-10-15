@@ -1,5 +1,5 @@
-/*Faça um programa para criar um vetor de
-números inteiros com 20 posições. Preencha e
+/*FaÃ§a um programa para criar um vetor de
+nÃºmeros inteiros com 20 posiÃ§Ãµes. Preencha e
 imprima o vetor.*/
 
 #include<stdio.h>
